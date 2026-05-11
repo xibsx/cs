@@ -1,0 +1,19 @@
+
+## ⚡ INITIALIZATION SEQUENCE
+
+> **NOTE:** This is a **new beginning**  
+> All past semester-I-2026 data is **NOT STORED**  
+> **NOTHING IS HERE** from before May 2026
+
+---
+
+## 🌟 WELCOME TO THE FUTURE
+
+```diff
++  SYSTEM GROUP ACTIVE FROM: MAY 2026
++  PAST RECORDS: PURGED
++  CURRENT STATUS: FRESH START
+-  NOTHING FROM SEMESTER-I-2026 EXISTS
+```
+
+---
